@@ -1,0 +1,3 @@
+3. A new file is added. ls > adds a new file containing a list of all the files in the lab-01-user directory.
+5. The change ready to be committed is the creation of newfile.txt.
+6. It tells me the change made was the added quote "This is my file listing".
